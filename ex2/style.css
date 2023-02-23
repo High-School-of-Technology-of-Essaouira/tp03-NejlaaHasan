@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .A {
+            position: fixed;
+            
+            border:3px solid rgb(0, 0, 0) ;
+            outline: 10px solid white;
+            background-color: rgb(140, 233, 240);
+            width:30px;
+            height: 30px;
+            left:60px; 
+        }
+        .B{
+            position: fixed;
+            
+            border:3px solid rgb(0, 0, 0) ;
+            outline: 10px solid white;
+            background-color: rgb(157, 140, 240);
+            width: 30px;
+            height: 30px;
+            left:110px;
+             
+        }
+        .C{
+            position: fixed;
+            
+            border:3px solid rgb(0, 0, 0) ;
+            outline: 10px solid white;
+            background-color: rgb(240, 152, 140);
+            width: 30px;
+            height: 30px;
+            left:120px;
+            
+           
+
+        }
+        .D{
+            position: fixed;
+            
+            border:3px solid rgb(0, 0, 0) ;
+            outline: 10px solid white;
+            background-color: rgb(150, 240, 140);
+            width: 30px;
+            height: 30px;
+           left: 130px;
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="A"></div>
+    <div class="B"></div>
+    <div class="C"></div>
+    <div class="D"></div>
+</body>
+</html>
